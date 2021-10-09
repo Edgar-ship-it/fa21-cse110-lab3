@@ -16,6 +16,9 @@ h2{
     max-width: 2in;
     min-width: 15px;
 }
+b{
+    color: darkred;
+}
 section{
     position: static;
 }
