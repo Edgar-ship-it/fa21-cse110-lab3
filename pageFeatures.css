@@ -1,4 +1,4 @@
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 900mm) {
   article {
     padding: 1rem 3rem;
   }
@@ -6,8 +6,15 @@
 body{
     background-color: cyan;
 }
+summary{
+    text-decoration-color: darkgrey;
+    height: 1vw;
+    width: 12em
+}
 h2{
     margin: left;
+    max-width: 2in;
+    min-width: 15px;
 }
 span{
     color: #f3c2f4;
