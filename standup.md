@@ -1,4 +1,4 @@
-Previously: Last time, we created a Markdown page where we write down all of the things that happened during our last meeting, so anyone can look back and get up to speed.
+Previously: Last time, we created a Meeting Minutes page where we write down all of the things that happened during our last meeting, so anyone can look back and get up to speed.
 
 New: Next thing on the agenda is making our page look awesome and spiffy
 /*Video or presentation of what needs to be done here*/
