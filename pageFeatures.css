@@ -1,10 +1,18 @@
 @media screen and (min-width: 900mm) {
-  article {
-    padding-top: 1rem 3rem;
+    article {
+      padding-top: 1rem 3rem;
+    }
   }
+*{
+    color: gold;
+}
+.navigation{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
 }
 body{
-    /*Makes the background of the body cyan*/
+    /*makes the background of the body cyan*/
     background-color: cyan;
 }
 summary{
@@ -13,19 +21,16 @@ summary{
     width: 12em
 }
 h2{
-    /*Makes a margin on the left side*/
     margin: left;
     max-width: 2in;
     min-width: 15px;
 }
 b{
-   /*Makes the text in the break darkred and adds padding to the top*/
     color: darkred;
     padding: top;
     display: block;
 }
 p{
-    /*There is a border around the paragraph, colored darksalmon*/
     border-style: dotted;
     border-color: darksalmon;
     border-width: 14px;
