@@ -20,6 +20,12 @@ b{
     color: darkred;
     padding: top;
 }
+p{
+    border-style: dotted;
+    border-color: darksalmon;
+    border-width: 14px;
+    border-radius: 25px;
+}
 section{
     position: static;
 }
