@@ -1,3 +1,48 @@
+@media screen and (min-width: 900mm) {
+  article {
+    padding-top: 1rem 3rem;
+  }
+}
 body{
+    /*Makes the background of the body cyan*/
     background-color: cyan;
+}
+summary{
+    text-decoration-color: darkgrey;
+    height: 1vw;
+    width: 12em
+}
+h2{
+    /*Makes a margin on the left side*/
+    margin: left;
+    max-width: 2in;
+    min-width: 15px;
+}
+b{
+   /*Makes the text in the break darkred and adds padding to the top*/
+    color: darkred;
+    padding: top;
+    display: block;
+}
+p{
+    /*There is a border around the paragraph, colored darksalmon*/
+    border-style: dotted;
+    border-color: darksalmon;
+    border-width: 14px;
+    border-radius: 25px;
+    display: inline;
+}
+button:hover{
+    color: dodgerblue;
+}
+input:active{
+    color: firebrick;
+}
+section{
+    position: static;
+}
+span{
+    color: #f3c2f4;
+    color: hsl(12,33,25);
+    position: fixed;
 }
