@@ -16,7 +16,11 @@ h2{
     max-width: 2in;
     min-width: 15px;
 }
+section{
+    position: static;
+}
 span{
     color: #f3c2f4;
     color: hsl(12,33,25);
+    position: fixed;
 }
