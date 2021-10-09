@@ -22,6 +22,7 @@ b{
    /*Makes the text in the break darkred and adds padding to the top*/
     color: darkred;
     padding: top;
+    display: block;
 }
 p{
     /*There is a border around the paragraph, colored darksalmon*/
@@ -29,6 +30,7 @@ p{
     border-color: darksalmon;
     border-width: 14px;
     border-radius: 25px;
+    display: inline;
 }
 section{
     position: static;
