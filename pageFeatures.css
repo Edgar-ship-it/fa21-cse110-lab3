@@ -32,6 +32,12 @@ p{
     border-radius: 25px;
     display: inline;
 }
+button:hover{
+    color: dodgerblue;
+}
+input:active{
+    color: firebrick;
+}
 section{
     position: static;
 }
